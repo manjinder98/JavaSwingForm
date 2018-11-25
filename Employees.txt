@@ -1,0 +1,170 @@
+You've added a new Employee: 
+ name = Ms
+ phone = 36684510.
+ address = kjnf weoflie
+ email = mnnjkndjkfnw
+ occupation = Engineer
+ gender = female
+ salary = 1535.0
+ isManager = false
+
+You've added a new Employee: 
+ name = njknefjw
+ phone = wrjgniurw
+ address = rroongiorw
+ email = fjkrenenio
+ occupation = Student
+ gender = female
+ salary = 156813.0
+ isManager = false
+
+You've added a new Employee: 
+ name = Manjind
+ phone = enb24ibk
+ address = bwiugebguiufiew
+ email = jkfwbibgiu2bi
+ occupation = Engineer
+ gender = female
+ salary = 14231.0
+ isManager = false
+
+You've added a new Employee: 
+ name = Rami
+ phone = 543846f
+ address = fnwionroifw
+ email = ms@gmail.com
+ occupation = Doctor
+ gender = female
+ salary = 364536.0
+ isManager = false
+
+You've added a new Employee: 
+ name = Simran
+ phone = 516841
+ address = kjnewiukwrgf
+ email = ms@gm.com
+ occupation = Doctor
+ gender = male
+ salary = 3424.0
+ isManager = false
+
+You've added a new Employee: 
+ name = manjinder3
+ phone = 13513
+ address = dnolwmio
+ email = ms
+ occupation = Engineer
+ gender = male
+ salary = 342342.0
+ isManager = false
+
+You've added a new Employee: 
+ name = nafkjwiugbui
+ phone = 34543534
+ address = wgiuneunreiunguer
+ email = grnjirngiuerniu
+ occupation = Engineer
+ gender = female
+ salary = 34543.0
+ isManager = false
+
+You've added a new Employee: 
+ name = ffgghhh
+ phone = 2577777
+ address = hgjgg
+ email = hgkhuh
+ occupation = Doctor
+ gender = male
+ salary = 7890.9
+ isManager = true
+
+You've added a new Employee: 
+ name = Maninde
+ phone = 568091654
+ address = nfjnwIOUNFW
+ email = nfmnwiorung
+ occupation = Teacher
+ gender = male
+ salary = 123321.0
+ isManager = false
+
+You've added a new Employee: 
+ name = Manjinder
+ phone = 366874201
+ address = ngiqonrwiwr
+ email = null
+ occupation = Engineer
+ gender = male
+ salary = 1324.0
+ isManager = false
+
+You've added a new Employee: 
+ name = Manjinder
+ phone = 208468468
+ address = ngiqonrwiwr
+ email = null
+ occupation = Engineer
+ gender = male
+ salary = 1324.0
+ isManager = false
+
+You've added a new Employee: 
+ name = Manjinder
+ phone = 35156810
+ address = efwnfmwiogn
+ email = nejkfnioe
+ occupation = Teacher
+ gender = male
+ salary = 1212.0
+ isManager = false
+
+You've added a new Employee: 
+ name = Manjinder
+ phone = 123458697
+ address = wnigiuwnguirw
+ email = null
+ occupation = Teacher
+ gender = male
+ salary = 32423.0
+ isManager = false
+
+You've added a new Employee: 
+ name = Manjinder
+ phone = 684086486
+ address = fjewnfwn	
+ email = null
+ occupation = Doctor
+ gender = male
+ salary = 3234.0
+ isManager = false
+
+You've added a new Employee: 
+ name = Manjinder
+ phone = 318465098
+ address = jnrwigeunre
+ email = null
+ occupation = Doctor
+ gender = male
+ salary = 32423.0
+ isManager = false
+
+You've added a new Employee: 
+ name = Mmjanjef
+ phone = 2344254
+ address = agjnreka
+ email = null
+ occupation = Doctor
+ gender = male
+ salary = 234.0
+ isManager = false
+
+You've added a new Employee: 
+ name = jndrwjnm
+ phone = 668742068
+ address = jrengijqnrg	
+ email = manji@gmail.com
+ occupation = Doctor
+ gender = male
+ salary = 23324.0
+ isManager = false
+
