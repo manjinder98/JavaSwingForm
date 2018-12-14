@@ -167,4 +167,3 @@ You've added a new Employee:
  gender = male
  salary = 23324.0
  isManager = false
-
